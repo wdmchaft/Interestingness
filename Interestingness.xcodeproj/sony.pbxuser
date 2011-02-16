@@ -1,0 +1,207 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* InterestingnessAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 442}}";
+			sepNavSelRange = "{586, 0}";
+			sepNavVisRange = "{154, 831}";
+		};
+	};
+	1D3623250D0F684500981E51 /* InterestingnessAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 2847}}";
+			sepNavSelRange = "{959, 0}";
+			sepNavVisRange = "{306, 721}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Interestingness */ = {
+		activeExec = 0;
+		executables = (
+			EB7ADDB1130927FF000B0743 /* Interestingness */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EB7ADDB1130927FF000B0743 /* Interestingness */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Interestingness */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Interestingness */,
+		);
+		codeSenseManager = EB7ADDCE1309280A000B0743 /* Code sense */;
+		executables = (
+			EB7ADDB1130927FF000B0743 /* Interestingness */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319525077;
+			PBXWorkspaceStateSaveDate = 319525077;
+		};
+		perUserProjectItems = {
+			EB7ADDEF1309290F000B0743 = EB7ADDEF1309290F000B0743 /* PBXTextBookmark */;
+			EB7ADE1E130941D5000B0743 = EB7ADE1E130941D5000B0743 /* PBXTextBookmark */;
+			EB7ADE7E13094C03000B0743 = EB7ADE7E13094C03000B0743 /* PlistBookmark */;
+			EB7ADE7F13094C03000B0743 = EB7ADE7F13094C03000B0743 /* PBXBookmark */;
+			EB7ADF0113095731000B0743 = EB7ADF0113095731000B0743 /* PBXTextBookmark */;
+			EB7ADF1E13096C81000B0743 = EB7ADF1E13096C81000B0743 /* PBXTextBookmark */;
+			EB7FC43A130AC5EC00E453FE = EB7FC43A130AC5EC00E453FE /* PBXTextBookmark */;
+			EBBAF3ED130B90D800FABC90 /* PBXTextBookmark */ = EBBAF3ED130B90D800FABC90 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EB7ADDCD1309280A000B0743 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EB7ADDB1130927FF000B0743 /* Interestingness */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Interestingness;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EB7ADDCD1309280A000B0743 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EB7ADDCE1309280A000B0743 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EB7ADDD01309282B000B0743 /* InterestingnessTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 301}}";
+			sepNavSelRange = "{416, 0}";
+			sepNavVisRange = "{0, 423}";
+		};
+	};
+	EB7ADDD11309282B000B0743 /* InterestingnessTableViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4284, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4335, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4385, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 7152}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1258, 3159}}";
+			sepNavSelRange = "{6258, 0}";
+			sepNavVisRange = "{6021, 746}";
+		};
+	};
+	EB7ADDEF1309290F000B0743 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* InterestingnessAppDelegate.h */;
+		name = "InterestingnessAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 586;
+		rType = 0;
+		vrLen = 831;
+		vrLoc = 154;
+	};
+	EB7ADE1E130941D5000B0743 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* InterestingnessAppDelegate.m */;
+		name = "InterestingnessAppDelegate.m: 39";
+		rLen = 0;
+		rLoc = 959;
+		rType = 0;
+		vrLen = 721;
+		vrLoc = 306;
+	};
+	EB7ADE7E13094C03000B0743 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Interestingness-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Volumes/Untitled 2/Xcode/Interestingness/Interestingness-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EB7ADE7F13094C03000B0743 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EB7ADE7813094B98000B0743 /* flickr.png */;
+	};
+	EB7ADF0113095731000B0743 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EB7ADDD01309282B000B0743 /* InterestingnessTableViewController.h */;
+		name = "InterestingnessTableViewController.h: 18";
+		rLen = 0;
+		rLoc = 416;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	EB7ADF1E13096C81000B0743 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EB7ADDD11309282B000B0743 /* InterestingnessTableViewController.m */;
+		name = "InterestingnessTableViewController.m: 202";
+		rLen = 0;
+		rLoc = 6022;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 5635;
+	};
+	EB7FC43A130AC5EC00E453FE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EB7ADDD11309282B000B0743 /* InterestingnessTableViewController.m */;
+		name = "InterestingnessTableViewController.m: 218";
+		rLen = 0;
+		rLoc = 6315;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 6078;
+	};
+	EBBAF3ED130B90D800FABC90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EB7ADDD11309282B000B0743 /* InterestingnessTableViewController.m */;
+		name = "InterestingnessTableViewController.m: 218";
+		rLen = 0;
+		rLoc = 6315;
+		rType = 0;
+		vrLen = 746;
+		vrLoc = 6078;
+	};
+}
